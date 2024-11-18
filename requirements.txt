@@ -1,0 +1,11 @@
+streamlit
+numpy
+tensorflow
+pandas
+plotly
+tensorflow-probability
+streamlit-drawable-canvas
+matplotlib
+seaborn
+scikit-learn
+tf-keras
